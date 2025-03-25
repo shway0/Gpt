@@ -24,7 +24,13 @@ Wei bowed and followed her to the designated position, carrying the delicate ins
 
 Wei kept his expression neutral, though internally he noted the danger of being perceived as changed. "This one is merely more attentive after experiencing the dangers of the Wastes directly," he replied, the practiced humility of a servant disciple masking his true thoughts.
 
-Mei seemed about to press further when the monitoring array suddenly activated, its crystals glowing with unexpected intensity. "That's strange," she murmured, examining the readings. "The ruins are emitting spiritual resonance patterns I've never seen documented."
+"No," Mei persisted, lowering her voice further. "It's more than that. Your eyes..." She leaned closer, studying his face. "There are moments when they change, just for an instant. Like looking into the void itself."
+
+Wei stiffened. "Senior Sister must be mistaken. This one is merely—"
+
+"I'm not reporting you," Mei interrupted. "I'm curious. The Wastes changed you, didn't they? During your separation?"
+
+Before Wei could formulate a safe response, the monitoring array suddenly activated, its crystals glowing with unexpected intensity. "That's strange," Mei murmured, her attention diverted to the readings. "The ruins are emitting spiritual resonance patterns I've never seen documented."
 
 Wei observed the display, recognizing elements that connected to what Sutra had shown him about inverse energy flows. The ruins weren't merely damaged—they were actively operating according to principles that contradicted conventional cultivation understanding.
 
@@ -32,7 +38,11 @@ Wei observed the display, recognizing elements that connected to what Sutra had 
 
 She glanced at him sharply. "Yes, exactly that. How would you know such a thing?"
 
-Before Wei could formulate a safe response, Inner Disciple Feng approached, his expression severe. "Outer Disciple Mei, report on your findings."
+"This one merely observes patterns," Wei replied carefully. "The display shows energy flowing opposite to standard cultivation currents."
+
+"That's advanced spiritual theory," Mei said, her voice a mixture of suspicion and fascination. "No servant should—"
+
+Before Wei could respond, Inner Disciple Feng approached, his expression severe. "Outer Disciple Mei, report on your findings."
 
 Mei straightened immediately, turning her attention to her superior. "The ruins exhibit unusual spiritual resonance patterns, Senior Brother. They appear to be actively processing energy in ways that contradict standard cultivation principles."
 
@@ -50,13 +60,27 @@ As evening approached, the expedition completed its base camp establishment. Inn
 
 The assignments were standard expedition protocol, though Wei noted that his restriction to central position meant he would remain at base camp rather than accompanying any exploration team. This presented both limitation and opportunity—he would have less access to the ruins directly but more freedom to continue his internal practice without close observation.
 
-As the disciples dispersed to their evening duties, Wei became aware of a subtle change in the Wastes around them. The ambient spiritual energy, already distorted compared to the normal world, began shifting in patterns that seemed to respond to the expedition's presence. The crystallized formations surrounding their camp emitted faint luminescence that pulsed in rhythms similar to what Wei had observed in the formation where he encountered Sutra.
+As the disciples dispersed to their evening duties, Wei found himself working alongside Dao, who had been unusually quiet since their shared experience at the crystal formation. They were tasked with securing the expedition's supplies against the Wastes' unpredictable elements.
 
-"The ruins recognize kindred energy," Sutra explained. "Your beginning inversions create resonance with the lingering formations. Be cautious—others may notice if the response intensifies."
+"Your eyes changed again earlier," Dao said suddenly, his voice low enough that only Wei could hear. "When you were working with Disciple Mei. I saw it from across the camp."
 
-Wei acknowledged this warning, carefully moderating his internal practice as he completed his evening tasks. The last thing he needed was to draw attention through unusual spiritual phenomena that others might connect to his presence.
+Wei continued his work without pausing. "You're imagining things."
 
-As night fell over the camp, the ruins revealed new properties. Structures that had appeared solid in daylight now showed ghostly luminescence, revealing architectural details that had been invisible before. Formations etched into the ancient buildings glowed with pale blue light, creating patterns that shifted and flowed like living things.
+"Don't lie to me," Dao hissed, grabbing Wei's arm and forcing him to make eye contact. "Whatever that thing in the crystal did to you, it's changing you. I can see it."
+
+Wei broke Dao's grip with a subtle movement, his strength surprising the other servant. "Be careful, Dao. Curiosity has consequences."
+
+"Is that a threat?" Dao's eyes narrowed.
+
+"A warning," Wei replied. "What I found in the Wastes isn't meant for everyone."
+
+"But it was meant for you?" Dao's voice carried a mixture of envy and suspicion. "A rootless servant with no cultivation potential?"
+
+"Perhaps that's exactly why," Wei said, returning to his work. "Now, either help me secure these supplies or leave me to finish alone."
+
+Dao hesitated, clearly wanting to press further but aware of the attention their conversation might draw. "This isn't over," he said finally, before reluctantly resuming his share of the work.
+
+As night deepened over the camp, the ruins revealed new properties. Structures that had appeared solid in daylight now showed ghostly luminescence, revealing architectural details that had been invisible before. Formations etched into the ancient buildings glowed with pale blue light, creating patterns that shifted and flowed like living things.
 
 From his position at the edge of camp, Wei observed Inner Disciple Feng and several outer disciples documenting these phenomena, their expressions revealing mixture of scientific curiosity and underlying unease. The ruins clearly operated according to principles that challenged their understanding of cultivation fundamentals.
 
@@ -84,25 +108,89 @@ Wei considered his options. Protocol required alerting the camp to any unusual s
 
 This created immediate concern. If the entity was drawn specifically to Wei's activities, alerting the camp might lead to questions about why it had approached his position particularly.
 
-Before Wei could decide on a course of action, the entity shifted direction, moving away from the camp and deeper into the ruins. Its departure seemed deliberate rather than random, almost as if inviting pursuit.
+Wei made his decision. Rising silently from his meditation posture, he moved toward the perimeter barrier, careful to remain in the shadows between monitoring formations. The entity remained visible at the edge of the ruins, its form seeming to shift and flow as if not entirely solid.
 
-"It offers opportunity," Sutra suggested. "Such entities sometimes guard knowledge or artifacts from the Forgotten Age. However, following would require leaving your assigned position—a significant risk given your current restrictions."
+"What are you doing?" came a whispered voice from behind him.
 
-Wei weighed the potential value against the certain punishment if discovered absent from his post again. His first priority remained avoiding exposure before he had developed sufficient understanding of the Forgotten Path to protect himself.
+Wei turned to find another servant disciple—Chen, a quiet young man who rarely spoke to anyone—watching him with wide eyes.
 
-"A prudent choice," Sutra acknowledged as Wei decided to remain at his post. "Other opportunities will arise. The ruins have stood for centuries—their secrets will not disappear in a single night."
+"I saw movement near the ruins," Wei explained softly. "I'm investigating before raising an alarm."
 
-Wei continued his watch duty, though he maintained awareness of the ruins' perimeter in case the entity returned. The remainder of his shift passed without further incident, and he was relieved by another servant disciple as scheduled.
+"Protocol requires immediate notification of any unusual sightings," Chen replied, his voice carrying the rigid adherence to rules typical of those who had never questioned authority.
 
-Rather than retiring immediately, Wei took a circuitous route back to his tent, positioning himself to observe the ruins from a different angle. The luminescent patterns had shifted again, now forming what appeared to be directional indicators—lines of light that converged toward a specific section of the compound.
+"And wake the entire camp for what might be nothing?" Wei countered. "Look there—do you see anything unusual?"
 
-"The Heart Chamber," Sutra identified. "The central cultivation hall where the Boundless Meridian Sect conducted their most significant research. If anything of true value remains in these ruins, it would be there."
+Chen peered toward where Wei indicated, squinting into the darkness. The void-touched entity had moved behind a crystallized formation, temporarily hidden from view.
 
-Wei committed the location to memory, noting that it lay in the western section of the ruins—an area assigned to Inner Disciple Feng's personal exploration team for the morning. This created both challenge and opportunity; following that team would be difficult given his camp restrictions, but their discoveries might reveal information valuable to his development.
+"I don't see anything," Chen said after a moment.
 
-He finally retired to his tent, continuing his inversion practices as he drifted toward sleep. Unlike conventional meditation, which typically required full wakefulness, the Forgotten Path's inversions could progress during transitional states of consciousness—the boundaries between waking and sleeping providing fertile ground for hollowing rather than building.
+"Exactly," Wei replied. "The Wastes create visual distortions. I wanted to verify before disturbing Senior Brother Feng unnecessarily."
 
-"The Hollow Awakening advances well," Sutra noted as Wei's consciousness began to blur. "Soon you will be ready for the first manifestation—the Echo Chamber."
+Chen hesitated, clearly uncertain. "You should return to your post. If there is something out there, a single servant can't handle it."
+
+"You're right," Wei agreed, seeing an opportunity. "Perhaps you could watch my position for a few minutes while I complete a perimeter check? Just to be certain."
+
+The suggestion appealed to Chen's desire to follow protocol while also allowing him to feel he was making a responsible decision. "Very well," he agreed. "But be quick and careful."
+
+Wei nodded gratefully and moved away, following the camp's perimeter until he was out of Chen's line of sight. Then, with practiced stealth, he slipped between two monitoring formations and approached the ruins where he had last seen the entity.
+
+The void-touched figure reappeared as Wei drew closer, emerging from behind the crystallized formation with fluid grace. In the pale luminescence of the ruins, its features became more distinct—a humanoid shape composed of what appeared to be solidified shadow, with eyes that glowed with the same blue light as the ruins' formations.
+
+"It was human once," Sutra explained. "A disciple of the Boundless Meridian Sect who underwent partial transformation during the cataclysm. Neither fully alive nor dead, but preserved in a state between states."
+
+The entity made no aggressive movement as Wei approached, instead watching him with what seemed like curiosity. When Wei was approximately ten paces away, it raised a hand in a gesture that appeared almost like greeting.
+
+"Can it communicate?" Wei asked Sutra internally.
+
+"Not in conventional language," Sutra replied. "But through resonance with your developing inversions, limited exchange may be possible."
+
+Wei focused on his Echo Chamber, allowing the hollowness within his central meridian to expand slightly. The sensation was strange—a controlled emptiness that seemed to reach outward rather than drawing inward.
+
+The entity responded immediately, the blue glow of its eyes intensifying. It made another gesture, more complex than the first, then turned and began moving deeper into the ruins with deliberate slowness—as if inviting Wei to follow.
+
+Before Wei could decide whether to pursue, a shout came from the camp behind him. "Intruder at the perimeter! All disciples to defensive positions!"
+
+Wei turned to see Chen pointing in his direction, having apparently spotted him near the ruins. The camp erupted into controlled chaos, disciples emerging from tents and moving to predetermined positions while spiritual weapons and defensive formations activated.
+
+The void-touched entity reacted to the commotion by retreating rapidly, its form seeming to melt into the shadows of the ruins until it vanished completely. Wei found himself exposed, caught between the ruins and the now-alert camp, with no plausible explanation for his position.
+
+Inner Disciple Feng appeared at the perimeter, his spiritual energy manifested as a glowing aura around his hands. "Identify yourself!" he called, clearly unable to recognize Wei in the darkness.
+
+Wei had seconds to decide. Attempting to flee would only confirm guilt and likely result in pursuit and capture. Returning to face discipline was the only viable option, though the consequences would be severe.
+
+"Servant Wei," he called back, stepping forward with hands raised to show he carried no weapons. "This one apologizes for the disturbance."
+
+Feng's expression shifted from alert readiness to cold anger as Wei entered the light of the camp's formations. "Servant Wei. Again you violate expedition protocols by separating from the group."
+
+Wei bowed deeply, adopting the proper posture of a servant accepting discipline. "This one saw movement near the ruins and approached to investigate before raising an unnecessary alarm."
+
+"That decision was not yours to make," Feng replied sharply. "You were assigned to watch duty, not perimeter patrol."
+
+By now, most of the expedition had gathered, watching the confrontation with varying expressions of curiosity, disapproval, or in Dao's case, barely concealed satisfaction at Wei's predicament.
+
+"What did you see?" asked one of the outer disciples, more interested in potential threats than in Wei's violation of protocol.
+
+"A shadow moving among the ruins," Wei replied truthfully, though omitting the entity's nature and his interaction with it. "It retreated when the alarm was raised."
+
+Feng studied Wei with narrowed eyes, clearly suspicious of this explanation. "Servant Chen reports you abandoned your post deliberately, claiming to conduct a perimeter check without authorization."
+
+"This one acted impulsively," Wei admitted, keeping his gaze lowered. "The safety of the expedition seemed to require immediate investigation."
+
+"Your concern for safety would be more convincing if you hadn't already violated protocols yesterday," Feng observed coldly. "Twice now you have demonstrated disregard for expedition discipline."
+
+Wei remained silent, knowing any further explanation would only worsen his situation. The truth—that he had been drawn to interact with a void-touched entity due to his developing inversions—would raise far more dangerous questions than simple disobedience.
+
+"You will be confined to the central camp area under direct supervision for the remainder of the expedition," Feng declared finally. "Any further violations will result in immediate return to Azure Peaks under restraint for formal disciplinary proceedings."
+
+"This one understands and accepts discipline," Wei replied, bowing again.
+
+The incident concluded with Wei being assigned a monitoring bracelet—a simple formation device that would alert the expedition leaders if he moved beyond the central camp area. Such devices were typically used for outer disciples who had demonstrated carelessness in dangerous territories, never for servants who were expected to simply obey without question.
+
+As the camp settled back into night routine, Wei found himself under the direct supervision of an outer disciple who had been assigned to watch him for the remainder of the night. The disciplinary measures were humiliating but not unexpected given his actions.
+
+"Your impulsiveness creates unnecessary complications," Sutra observed as Wei sat in enforced stillness at the center of camp. "The entity offered potential knowledge, but pursuing it at the cost of increased scrutiny was unwise."
+
+Wei acknowledged this assessment, though he noted that the interaction, brief as it was, had confirmed something important—his developing inversions created resonance with other void-aligned entities. This suggested his path was not merely theoretical but connected to tangible aspects of the Wastes themselves.
 
 ---
 
@@ -110,7 +198,7 @@ Dawn arrived with unusual gentleness for the Wastes, a gradual lightening rather
 
 Inner Disciple Feng gathered the exploration teams after a brief morning meal. "We proceed as planned," he announced. "Team One will investigate the eastern section, Team Two the southern approach, and I will lead Team Three to the western chambers. Base camp remains fully staffed and on alert for void fluctuations."
 
-Wei maintained his assigned position with the base camp team, helping prepare equipment that the exploration teams might need upon return. As the teams departed toward their designated sections of the ruins, he focused on his internal practice while monitoring the camp perimeter.
+Wei maintained his assigned position with the base camp team, the monitoring bracelet on his wrist ensuring he remained within the central area. As the teams departed toward their designated sections of the ruins, he focused on his internal practice while performing the basic tasks he was still permitted to handle.
 
 "The Echo Chamber forms when sufficient hollowing has occurred in your central meridian," Sutra explained. "Unlike conventional cultivation's dantian, which accumulates and compresses spiritual energy, the Echo Chamber expands through absence, creating space where spiritual impressions can resonate without being captured."
 
@@ -176,6 +264,42 @@ The coordinator hesitated, clearly uncertain how to proceed without Inner Discip
 
 "We will comply with the Order's directive," the coordinator finally stated, making the only decision available. "Our discoveries are at your disposal."
 
+The lead Enforcer nodded curtly, then turned her attention directly to Wei, her gaze unnervingly focused. "You," she said, pointing at him. "Approach."
+
+A ripple of surprise passed through the gathered disciples. For an Order Enforcer to address a servant directly was unprecedented. Wei felt every eye in the camp turn toward him as he stepped forward, bowing deeply.
+
+"This one serves at the Enforcer's command," he said, keeping his gaze lowered appropriately.
+
+The Enforcer circled him slowly, her eyes narrowed in assessment. "You were reported outside the camp perimeter last night, near the western ruins."
+
+Wei maintained his deferential posture. "This one saw movement and investigated unwisely, Honored Enforcer."
+
+"What did you see?" she asked, her voice carrying a subtle resonance that suggested spiritual enhancement—a technique used to detect falsehood.
+
+"A shadow moving among the ruins," Wei replied, offering the same partial truth he had given Feng. "It retreated when the alarm was raised."
+
+The Enforcer stopped directly in front of him, her gaze intensifying. "Look at me, servant."
+
+Wei raised his eyes to meet hers, careful to maintain his outward appearance of humble submission while internally reinforcing his hollowing technique to mask the developing inversions.
+
+"Interesting," the Enforcer said after a long moment of scrutiny. "You have no spiritual roots, yet you volunteered for an expedition to the Wastes. Why?"
+
+The question created immediate danger. Any answer that suggested personal ambition or interest in cultivation would raise suspicion, yet a lie would likely be detected through the Enforcer's spiritual techniques.
+
+"This one hoped to be of service to Azure Peaks Sect," Wei replied, offering a truth that concealed deeper motivations. "Few servants volunteer for Wastes expeditions, creating opportunity to demonstrate value."
+
+The Enforcer's eyes narrowed further. "A servant seeking to demonstrate value typically chooses less dangerous assignments. Your explanation is incomplete."
+
+Wei felt the pressure of her spiritual scrutiny intensify, probing for deception. He needed to offer something more convincing without revealing his true purpose.
+
+"This one also sought to understand," he admitted, allowing a carefully measured vulnerability to show. "Born without spiritual roots, this one has always wondered about the world beyond conventional cultivation. The Wastes represent the unknown—something this one could perhaps comprehend despite lacking cultivation ability."
+
+This explanation contained enough truth to withstand scrutiny while framing his motivation as harmless curiosity rather than deliberate pursuit of forbidden knowledge.
+
+The Enforcer studied him for another long moment before stepping back. "You will be questioned further when we return to Azure Peaks," she stated. "For now, remain within the central camp area as previously instructed."
+
+She turned away, dismissing him as she rejoined her fellow Enforcers. Wei returned to his position, aware that he had navigated an immediate danger but created potential complications for the future. The Order's interest in him, however brief, represented a significant threat to his continued pursuit of the Forgotten Path.
+
 The Enforcers moved through the camp with practiced efficiency, examining documentation and questioning disciples about their observations. When they reached the medical station, they spent considerable time with the healing specialist, discussing Inner Disciple Feng's condition in low voices that prevented others from overhearing.
 
 Wei maintained his assigned position, presenting the perfect image of an unremarkable servant disciple while observing everything with careful attention. The Order's arrival created significant complications but also potential opportunity—their focus on the senior disciples might create openings for less noticed members of the expedition.
@@ -212,7 +336,35 @@ Wei's night watch assignment had been changed due to the heightened security—h
 
 This technique represented advancement beyond what Wei had anticipated achieving so quickly, but the urgency of the situation demanded attempting it. As he maintained his watch position beside the outer disciple, he focused on deepening the hollowing process, creating greater resonance between his Echo Chamber and the inverted energy patterns emanating from the ruins.
 
-The outer disciple showed no awareness of Wei's internal activity, maintaining vigilant observation of their assigned perimeter section while occasionally making notations in the watch log. This external normalcy provided cover as Wei pushed his practice further, guided by Sutra's precise instructions.
+The outer disciple—a young woman named Lin who specialized in defensive formations—showed no awareness of Wei's internal activity, maintaining vigilant observation of their assigned perimeter section while occasionally making notations in the watch log.
+
+"You're the troublemaker, aren't you?" she said suddenly, breaking the silence between them. "The servant who keeps wandering off."
+
+Wei maintained his composed expression. "This one made errors in judgment, Senior Sister."
+
+Lin snorted. "That's one way to put it. What were you really doing out there last night?"
+
+"As this one reported, investigating movement near the ruins."
+
+"And the day before? When you disappeared during the void fluctuation?"
+
+Wei hesitated, sensing a trap in her questioning. "This one became disoriented and separated from the group."
+
+"With Dao," Lin added. "Who has been watching you like a hawk ever since. There's something between you two, isn't there? Some servant rivalry I don't understand?"
+
+"This one has no quarrel with fellow servants," Wei replied carefully.
+
+Lin studied him with unexpected intensity. "The Order doesn't typically concern themselves with servants, you know. Yet the lead Enforcer questioned you directly. Why do you think that is?"
+
+Wei maintained his neutral expression. "This one cannot presume to understand the Order's interests."
+
+"Can't you?" Lin pressed. "I think you understand more than you admit, Servant Wei. I think you've been understanding things since we entered the Wastes."
+
+The conversation had become dangerous. Lin's interest seemed more than casual curiosity—her questions suggested specific suspicion rather than general interest in his disciplinary infractions.
+
+"This one is merely a servant performing assigned duties," Wei stated, returning his attention to the perimeter.
+
+Lin fell silent, though her occasional glances suggested she remained unconvinced by his deflection. This external normalcy provided cover as Wei pushed his practice further, guided by Sutra's precise instructions.
 
 "The Echo Chamber expands not by growing larger but by becoming less defined," Sutra explained. "Its boundaries blur, allowing your awareness to resonate with similar inversions in your environment. Focus on the Heart Chamber's energy signature—let your hollowness align with its emptiness."
 
@@ -246,15 +398,47 @@ Most concerning was the Sphere itself—it appeared to be integrated with the pe
 
 "The Sphere was designed to be accessed, not removed," Sutra confirmed. "Attempting to separate it from its pedestal would likely trigger catastrophic energy release. However, brief physical contact would allow partial knowledge transfer—enough to significantly advance your understanding of the Forgotten Path."
 
+As Wei's projected awareness studied the chamber, he became aware of another presence—the void-touched entity he had glimpsed the previous night. It stood in a shadowed alcove, watching him with its luminescent blue eyes.
+
+"It perceives your projection," Sutra noted with surprise. "Few entities can detect this form of awareness."
+
+The void-touched figure moved toward the center of the chamber, stopping beside the pedestal that held the Meridian Sphere. It gestured toward the sphere, then toward Wei's projected awareness, making a connection between them.
+
+"It understands your purpose," Sutra interpreted. "This entity may have been a guardian of the Heart Chamber before the cataclysm—one who underwent transformation rather than abandoning their duty."
+
+The entity made another gesture, more complex than before, then placed its shadowy hand upon the Meridian Sphere. The crystal responded with increased luminescence, patterns within shifting to align with the entity's touch.
+
+"It's preparing the Sphere for access," Sutra explained. "Activating recognition protocols that would normally require specific cultivation techniques. This is... unexpected assistance."
+
+The void-touched guardian removed its hand from the Sphere and stepped back, once again gesturing toward Wei's projected awareness. The meaning seemed clear—it had prepared the way for Wei's access, should he choose to return physically.
+
 Wei's projected awareness lingered in the chamber, absorbing as much detail as possible while maintaining the connection to his physical body at the watch post. The effort of sustaining this divided perception grew increasingly taxing, his inexperience with the technique limiting its duration.
 
 "You must return before exhaustion compromises your control," Sutra advised. "What you've learned is sufficient to attempt physical access if you choose that path."
 
 Wei withdrew his projected awareness, the perception retracting back toward his physical form with increasing speed as he released the technique. The return created momentary disorientation as his consciousness reintegrated, perception once again limited to his immediate surroundings.
 
-The outer disciple beside him showed no sign of having noticed anything unusual, continuing his methodical observation of the perimeter. Wei's absence had been entirely spiritual rather than physical, leaving no external evidence of his exploration.
+"Are you ill?" Lin asked, studying him with concern that seemed genuine despite her earlier suspicion. "You've been completely still for nearly twenty minutes, and your breathing changed."
 
-As his awareness fully settled back into his body, Wei processed what he had learned. The Meridian Sphere represented invaluable knowledge—perhaps the most complete record of the Inverse Meridian Theory still existing in the world. Accessing it physically would advance his development by years or even decades compared to the gradual instruction Sutra could provide alone.
+Wei blinked, reorienting himself to physical reality. "This one was practicing meditation techniques to maintain alertness during watch duty," he explained, offering a plausible half-truth.
+
+Lin's expression suggested she wasn't entirely convinced, but she nodded. "The Order Enforcer is approaching our position," she warned. "Try to look more... present."
+
+Wei straightened his posture and focused his attention outward just as the lead Enforcer appeared, her gray robes seeming to absorb the moonlight rather than reflect it. She paused, studying their watch position with the same unnerving intensity she had directed at Wei earlier.
+
+"Report any unusual observations immediately," she instructed, addressing Lin rather than Wei. "Particularly any changes in the ruins' luminescence patterns."
+
+"Yes, Honored Enforcer," Lin replied with appropriate deference.
+
+The Enforcer's gaze shifted to Wei briefly, her eyes narrowing slightly before she continued her patrol. Once she was beyond hearing range, Lin exhaled slowly.
+
+"She doesn't trust you," she observed quietly. "Which makes me wonder if I should."
+
+Wei maintained his neutral expression. "This one has given no cause for distrust beyond minor protocol violations."
+
+"Perhaps," Lin conceded. "Or perhaps there's more to a rootless servant who volunteers for Wastes expeditions than meets the eye."
+
+The remainder of their watch passed in tense silence, Wei carefully maintaining his outward appearance of dutiful attention while internally processing what he had learned. The Meridian Sphere represented invaluable knowledge—perhaps the most complete record of the Inverse Meridian Theory still existing in the world. Accessing it physically would advance his development by years or even decades compared to the gradual instruction Sutra could provide alone.
 
 Yet the risks were substantial. Leaving his post would violate direct orders, potentially resulting in severe punishment upon return to Azure Peaks. Encountering the Order Enforcer would have far worse consequences—the Order did not treat violations of their directives lightly, particularly when forbidden knowledge was involved.
 
@@ -264,6 +448,6 @@ Wei considered his options as the night deepened around the camp. The expedition
 
 The decision, when it came, felt less like choice and more like recognition of what had always been inevitable. Wei had not come to the Wastes seeking safety or conformity—he had come pursuing power denied to him by birth and circumstance. The Meridian Sphere offered exactly what he had always sought: knowledge that could transform emptiness into strength.
 
-As the outer disciple made another entry in the watch log, Wei began preparing himself for what would come next. The path forward was dangerous but clear. When the opportunity presented itself, he would enter the Heart Chamber and touch the Meridian Sphere, accepting whatever consequences followed.
+As Lin made another entry in the watch log, Wei began preparing himself for what would come next. The path forward was dangerous but clear. When the opportunity presented itself, he would enter the Heart Chamber and touch the Meridian Sphere, accepting whatever consequences followed.
 
 The invisible servant would take his first visible action—and the cultivation world would eventually be forced to see what it had chosen to forget.
