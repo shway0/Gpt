@@ -2,11 +2,27 @@
 
 The opportunity came during the third watch rotation, when the camp's attention was divided by an unexpected void fluctuation at the northern perimeter. The Order Enforcer patrolling the western ruins diverted briefly to assess the disturbance, creating a longer gap in coverage than the standard pattern Wei had observed.
 
-Wei moved with practiced silence, slipping away from his watch position while his partner was distracted by the commotion at the northern edge of camp. Years of invisible existence had taught him how to move without drawing attention—a skill developed through necessity that now served a greater purpose.
+"Now," Sutra urged within Wei's mind. "The fluctuation won't hold their attention for long."
+
+Wei moved with practiced silence, slipping away from his watch position while Lin was distracted by the commotion at the northern edge of camp. Years of invisible existence had taught him how to move without drawing attention—a skill developed through necessity that now served a greater purpose.
+
+He ducked behind a supply crate as another servant passed, then darted between two tents, staying in the shadows. The monitoring bracelet on his wrist would alert the camp if he moved beyond the perimeter, but he had prepared for this. During his earlier watch, he had carefully loosened the formation seal, creating just enough space to slip it off when needed.
+
+With a quick twist, the bracelet came free. Wei placed it carefully behind a rock where it would remain within the camp boundary, preventing any immediate alarm. Then he was moving again, swift and silent toward the western ruins.
 
 The path to the Heart Chamber required navigating through crystallized formations that had once been lesser buildings of the Boundless Meridian Sect. In daylight, this would have been nearly impossible without detection, but the night's shadows combined with the ruins' own luminescence created natural concealment for someone who understood how to use it.
 
-Wei's Echo Chamber, still developing but already functional, provided additional advantage. The hollowing technique Sutra had taught him created subtle resonance with the inverted energy patterns of the ruins, allowing him to perceive pathways and obstacles that conventional senses might miss.
+Wei pressed himself against a crystalline wall as a patrol of outer disciples passed nearby, their lanterns sweeping across the ruins. Their voices carried clearly in the night air.
+
+"The Order representatives are on edge," one said. "Something about these ruins has them concerned."
+
+"Did you see how they questioned that servant?" another replied. "Strange to pay so much attention to someone so insignificant."
+
+Wei waited until they passed before continuing. His Echo Chamber, still developing but already functional, provided additional advantage. The hollowing technique Sutra had taught him created subtle resonance with the inverted energy patterns of the ruins, allowing him to perceive pathways and obstacles that conventional senses might miss.
+
+A sudden cracking sound froze him in place. Ahead, a crystalline formation was shifting, its structure realigning as if responding to some unseen force. Wei watched as it created a narrow passage that hadn't existed moments before.
+
+"The ruins recognize your Echo Chamber," Sutra explained. "They're responding to your presence."
 
 "The patrol will return to standard pattern in approximately four minutes," Sutra advised as Wei approached the western section. "The chamber access, extraction of knowledge, and retreat must all occur within that window."
 
@@ -15,6 +31,8 @@ Wei acknowledged this constraint without breaking stride, his movements economic
 He paused at the threshold, assessing the fluctuations and timing his entry to coincide with a momentary stabilization. Passing through the damaged seal created a sensation of resistance followed by sudden release, like moving through water into air.
 
 Inside, the Heart Chamber matched his earlier perception—a circular room with formation patterns of extraordinary complexity embedded in its walls, illuminated by pale blue luminescence that seemed to pulse with its own rhythm. At the center stood the crystalline pedestal supporting the Meridian Sphere, its interior swirling with galaxy-like patterns that shifted continuously.
+
+The void-touched guardian Wei had encountered during his projected exploration was nowhere to be seen, but evidence of its presence remained—the Sphere glowed more intensely than before, its patterns aligned in what appeared to be preparation for access.
 
 Wei moved directly to the pedestal, aware that each second increased the risk of discovery. The Sphere appeared even more remarkable up close—not merely a recording device but a work of cultivation art, its internal patterns suggesting depths of knowledge beyond anything available in the current cultivation world.
 
@@ -26,11 +44,15 @@ He pushed through this resistance and made contact with the Sphere.
 
 The effect was immediate and overwhelming. Knowledge flooded into his consciousness—not as organized information but as raw understanding, concepts and principles pouring directly into his awareness without the intermediary of language or structured thought. The sensation was neither painful nor pleasant but simply intense, like suddenly perceiving an entire mountain range after a lifetime of seeing only individual stones.
 
+The chamber around him responded to the connection, the formation patterns on the walls brightening and beginning to rotate slowly, creating a spiral effect that centered on Wei and the Sphere. The floor beneath him trembled slightly, crystalline structures growing upward around the pedestal like protective fingers.
+
 Wei's Echo Chamber expanded rapidly in response, the hollowed space within his chest resonating with the Sphere's contents and creating capacity for the influx of knowledge. Principles of the Inverse Meridian Theory unfolded within his understanding—not merely techniques but fundamental reconceptualizations of how energy, consciousness, and reality interrelated.
 
 Conventional cultivation built upward, accumulating energy and solidifying spiritual foundations. The Forgotten Path inverted this approach entirely, creating power through strategic emptiness and manipulating reality by embracing its inherent void rather than imposing structure upon it.
 
 The knowledge transfer continued for what felt like hours but could only have been seconds, Wei's consciousness struggling to integrate the vast influx of information. Through it all, he maintained physical stillness, his hands remaining in contact with the Sphere while his awareness expanded beyond anything he had previously experienced.
+
+The chamber's luminescence intensified further, casting Wei's shadow in multiple directions simultaneously, each one moving independently of his actual position. The air itself seemed to thicken and thin in rhythmic pulses that matched the flow of knowledge into his Echo Chamber.
 
 "Enough," Sutra finally warned. "Your capacity is reaching its limit. Further transfer risks destabilizing your Echo Chamber before it fully forms."
 
@@ -40,9 +62,13 @@ Just as his fingers separated from the Sphere's surface, Wei sensed a presence a
 
 "Interesting," she said, her voice carrying the authority of someone accustomed to absolute obedience. "A servant disciple accessing forbidden knowledge. Your sect failed to properly screen its expedition members."
 
+She stepped into the chamber, her hand already forming a seal that glowed with concentrated spiritual energy. "Step away from the Sphere," she commanded.
+
 Wei remained silent, calculating his options. Physical escape seemed impossible—the Enforcer blocked the only exit, and her cultivation level far exceeded anything he could hope to match, even with his newly acquired knowledge.
 
-"The Order has protocols for this situation," she continued, stepping into the chamber. "Those who access prohibited information must be processed appropriately. Your mind will be cleansed, and you will be returned to your sect with no memory of this encounter."
+"I've been watching you since you first approached the ruins last night," she said, moving closer with measured steps. "Your behavior pattern indicated potential contamination. I simply needed confirmation."
+
+"The Order has protocols for this situation," she continued, stepping further into the chamber. "Those who access prohibited information must be processed appropriately. Your mind will be cleansed, and you will be returned to your sect with no memory of this encounter."
 
 The threat of memory erasure struck Wei with particular force. After years of invisible existence and careful preparation, after finally discovering the path he had sought, to have it all stripped away seemed worse than death.
 
@@ -54,13 +80,21 @@ She raised her hand, spiritual energy gathering around her fingers in a formatio
 
 "Both of you will be processed," she stated. "The Order appreciates when multiple violations conveniently present themselves together."
 
+"You don't understand what you're facing," Sutra spoke through Wei again. "He is not merely a vessel—he is perfectly aligned with the Forgotten Path."
+
+"Silence," the Enforcer commanded, her technique fully formed now, a spiral of concentrated spiritual energy rotating between her fingers. "Your existence is a violation of Order protocols. Surrender now and the extraction will be less damaging."
+
 Wei felt Sutra's presence expand within his consciousness, preparing for some action he didn't fully understand. "Trust the inversion," Sutra advised internally. "What appears as weakness is strength. What seems like vulnerability is power."
 
 As the Enforcer's technique launched toward him, Wei acted on instinct guided by his new knowledge. Rather than attempting to block or evade the attack—impossible given the disparity in their cultivation—he inverted his response entirely. His Echo Chamber expanded suddenly, creating a void that pulled rather than pushed, absorbing rather than deflecting.
 
 The Enforcer's technique, designed to extract foreign consciousness, instead encountered a hollowness that drew it inward. Her spiritual energy, precisely controlled and directed, suddenly found itself pulled into a space that operated according to inverse principles.
 
+The chamber around them reacted immediately. The formation patterns on the walls accelerated their rotation, and the crystalline structures on the floor grew more rapidly, creating a maze-like pattern between Wei and the Enforcer.
+
 Her expression shifted from confidence to alarm as she felt her technique not merely failing but being consumed. "Impossible," she whispered, attempting to sever the connection between her energy and Wei's Echo Chamber.
+
+"What are you doing?" she demanded, her voice losing its authoritative edge. "Stop this immediately!"
 
 But the principles of the Forgotten Path, freshly integrated into Wei's understanding, created an advantage she hadn't anticipated. Conventional cultivation could not easily disengage from inverse energy flows once connection was established—the very precision that made her techniques effective also made them vulnerable to this specific form of subversion.
 
@@ -68,11 +102,15 @@ Wei felt the Enforcer's spiritual energy flowing into his Echo Chamber, not as a
 
 The Enforcer stumbled backward, her face showing the first signs of genuine fear as she realized what was happening. "Void consumption," she gasped, recognizing a forbidden technique that the Order had supposedly erased from all records. "You cannot control such power without proper training."
 
+She attempted to break the connection again, forming a complex seal with her free hand. The air between them distorted as she poured more power into her defense, creating a visible barrier that momentarily slowed the energy drain.
+
 "He doesn't need to control it," Sutra spoke through Wei again. "He merely needs to allow it. The Forgotten Path works through permission, not domination."
 
 Wei understood this truth as it was spoken—his advantage lay precisely in not attempting to direct or contain the energy flowing into him. Unlike conventional cultivators who imposed their will upon spiritual energy, he simply created space for it to follow its natural inverse patterns.
 
 The Enforcer made a desperate attempt to break the connection, forming a severing seal with her free hand. But before she could complete the technique, the chamber's own formations responded to the energy fluctuations, crystalline structures extending from the walls and floor to encase her lower body, halting her movement.
+
+"Release me!" she commanded, her voice now carrying a note of panic. She struck at the crystalline restraints with a spiritual attack that shattered several formations, but more grew to replace them immediately.
 
 "The Heart Chamber remembers its purpose," Sutra explained as the Enforcer struggled against her crystalline restraints. "It was designed to facilitate and protect research into the Inverse Meridian Theory. Your Order may have suppressed this knowledge, but the formations embedded here remain loyal to their original function."
 
@@ -120,11 +158,29 @@ He turned toward the Meridian Sphere, still resting on its pedestal at the cente
 
 "I don't need to escape permanently," Wei replied. "I only need sufficient time to develop what I've begun. The Forgotten Path offers advantages your conventional methods cannot easily counter, as you've just experienced."
 
-He moved toward the chamber entrance, pausing to look back at the Enforcer and the Meridian Sphere beyond her. "Tell your superiors that the knowledge they've suppressed has found a suitable vessel. What was forgotten will be remembered."
+A sudden tremor shook the chamber, dust and crystal fragments falling from the ceiling. Outside, voices called in alarm.
+
+"Your colleagues have noticed something is wrong," Wei observed. "They'll be here soon."
+
+The Enforcer's eyes narrowed. "Then you have less time than you think."
+
+Wei moved toward the chamber entrance, pausing to look back at the Enforcer and the Meridian Sphere beyond her. "Tell your superiors that the knowledge they've suppressed has found a suitable vessel. What was forgotten will be remembered."
 
 With those words, Wei left the Heart Chamber, moving quickly but without panic through the twisted ruins. The knowledge gained from the Sphere guided his path, helping him identify routes that conventional perception might miss—passages where reality folded slightly, creating shortcuts through the distorted landscape.
 
+He heard shouts behind him as he navigated through a particularly narrow passage between two crystallized structures. The Order representatives had discovered their colleague's predicament and were mobilizing in pursuit.
+
+Wei pressed himself into a shadowed alcove as two figures in gray robes rushed past, their cultivation auras blazing with aggressive intent. Once they passed, he continued in the opposite direction, using his Echo Chamber to sense the safest route away from his pursuers.
+
 "The expedition will notice your absence soon," Sutra noted as Wei navigated away from the central ruins. "And the other Order representatives will investigate when their colleague fails to report."
+
+A blast of spiritual energy struck the formation beside him, shattering it into glittering fragments. Wei ducked and rolled as a third Order representative appeared, hands already forming another attack seal.
+
+"Halt!" the man commanded, his voice amplified by spiritual energy.
+
+Wei didn't respond, instead focusing on his Echo Chamber and the knowledge he had gained. Rather than running—a futile strategy against a cultivator of this level—he inverted his approach. His form seemed to blur slightly as he allowed the emptiness within him to resonate with the environment, creating a visual distortion that made his exact position difficult to pinpoint.
+
+The Enforcer's attack missed by inches, striking another crystalline formation and causing a chain reaction of shattering structures. Wei used the distraction to slip away, moving deeper into the ruins where the reality distortions would provide additional concealment.
 
 "Where should I go?" Wei asked, aware that his options within the Wastes were limited without supplies or protection.
 
@@ -132,7 +188,19 @@ With those words, Wei left the Heart Chamber, moving quickly but without panic t
 
 Wei adjusted his course accordingly, moving deeper into the Wastes rather than back toward the expedition camp or the boundary beyond. Each step took him further from his former life and deeper into territory few cultivators willingly entered.
 
-Yet he felt no regret or hesitation. For the first time, he moved with purpose that was entirely his own—not serving others' ambitions or operating within limitations imposed by birth and circumstance. The path ahead was dangerous and uncertain, but it was his path, chosen rather than assigned.
+He paused at the edge of a crystalline ravine, the bottom obscured by swirling mist that glowed with the same pale blue luminescence as the Heart Chamber. Behind him, he could sense his pursuers spreading out, establishing a search pattern designed to flush him toward the expedition camp where more Order representatives waited.
+
+With no obvious path forward, Wei studied the ravine with his newly enhanced perception. Where conventional sight showed only a dangerous drop, his Echo Chamber revealed subtle patterns in the mist—places where reality thinned enough to potentially support his weight.
+
+Taking a deep breath, Wei stepped off the edge.
+
+Instead of falling, his foot found purchase on what appeared to be nothing but mist. The sensation was strange—not solid ground but not insubstantial either, a surface that existed in potential rather than actuality until weight was applied to it.
+
+Step by careful step, Wei crossed the ravine on a bridge that existed only from his inverse perspective. Behind him, he heard exclamations of surprise as his pursuers reached the edge and found him apparently walking on air.
+
+One attempted to follow, stepping confidently into the mist—only to plummet with a startled cry before catching himself with a conventional flight technique. The others held back, realizing they had encountered something beyond their immediate understanding.
+
+Wei reached the far side of the ravine and continued northeast, the sounds of pursuit gradually fading behind him. Yet he felt no regret or hesitation. For the first time, he moved with purpose that was entirely his own—not serving others' ambitions or operating within limitations imposed by birth and circumstance. The path ahead was dangerous and uncertain, but it was his path, chosen rather than assigned.
 
 As he traveled through the night, Wei began organizing the knowledge he had received from the Meridian Sphere. The principles of the Inverse Meridian Theory unfolded in his understanding, revealing a cultivation approach that inverted conventional wisdom at every turn.
 
@@ -149,6 +217,8 @@ Wei could feel this development internally—the hollowed space within his chest
 "Echo Rooting," Sutra explained. "Where conventional cultivation establishes roots that draw energy upward, you will develop inverse roots that extend your hollowness outward. The process requires stability and focus—we must find suitable location before proceeding further."
 
 They continued northeast through increasingly distorted terrain. The crystallized formations grew more elaborate and unpredictable, some seeming to shift position when not directly observed. The sky above displayed strange auroras despite being night, colors flowing in patterns that suggested deliberate communication rather than natural phenomena.
+
+Wei paused as the ground ahead of him suddenly rippled like water. He tested it cautiously with one foot, finding it solid despite its fluid appearance. As he stepped forward, the ripples responded to his movement, creating patterns that spread outward from his footsteps.
 
 By early morning, they reached the region Sutra had identified—a valley whose floor appeared to ripple like water despite being solid underfoot. Reality here seemed particularly malleable, conventional physics applying only as general suggestion rather than firm rule.
 
@@ -190,7 +260,17 @@ This information created visible tension among the Order representatives. Guide-
 
 The senior Enforcer's expression darkened at this detail. "Intentional invisibility suggests premeditation. He may have joined the expedition specifically to access the ruins."
 
+"Sir," another Enforcer interrupted, entering the chamber with urgency. "We found this at the camp perimeter." He held up the monitoring bracelet Wei had removed.
+
+The senior Enforcer took it, examining the formation seal. "Cleverly disabled," he noted. "Not broken but loosened just enough to remove without triggering the alarm."
+
+"And there's more," the messenger continued. "The outer disciple assigned to watch him—Lin—reports he was practicing unusual meditation techniques during their shared watch. She described his eyes changing color briefly."
+
 Orders were issued immediately—the expedition would be detained for questioning, search parties would be dispatched throughout the Wastes, and notification would be sent to Order headquarters requesting additional resources for what was now classified as a Priority Containment situation.
+
+"He crossed the eastern ravine," reported another Enforcer, entering the chamber. "Somehow traversed the mist without conventional flight techniques. Jian attempted to follow and nearly fell to his death."
+
+The senior Enforcer's eyes narrowed. "Mist-walking is an inverse application documented only in sealed archives. If he's already manifesting such techniques..."
 
 By mid-morning, the full machinery of Order response was in motion. The Azure Peaks expedition members were segregated and interviewed individually, their confusion and alarm evident as they learned of Wei Liang's actions. Inner Disciple Feng, still recovering from his own exposure to the Heart Chamber, appeared particularly disturbed by the revelation.
 
