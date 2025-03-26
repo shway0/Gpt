@@ -17,18 +17,18 @@
 - Wed Mar 26 2025: Completed Act I (20 chapters) with consistent narrative focus on external action
 - Wed Mar 26 2025: Began Act II development (Hollow Resurrection)
 - Wed Mar 26 2025: Drafted Act II chapters 21-22 introducing Ru Yun and her backstory
+- Wed Mar 26 2025: Drafted Act II chapter 23 establishing Wei and Ru Yun's alliance
 
 ## In-Progress Tasks
-- Drafting Act II chapters 23-25 (first quarter)
-- Developing Wei and Ru Yun's alliance
+- Drafting Act II chapters 24-25 (first quarter)
 - Introducing Scholar Zhen Min and the knowledge preservation subplot
 - Continuing the Warden subplot established in Act I
+- Developing the Order's response to Wei's transformation
 
 ## Upcoming Tasks
 - Complete Act II development (20 chapters)
 - Implement character development arcs established in Act I
 - Expand on the Warden subplot and ecological transformation themes
-- Develop the Order's response to Wei's transformation
 - Introduce the Silent Choir and their unique cultivation techniques
 - Explore Wei's growing legend as the "Hollow King"
 - Develop the Cult of the Hollow subplot
