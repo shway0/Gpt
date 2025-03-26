@@ -7,7 +7,7 @@
 
 ## Development Phase
 - [x] Initial draft (Act I: 14 of 20 chapters)
-- [ ] Narrative revision (shifting from internal to external focus)
+- [x] Narrative revision (chapters 1-14 shifted from internal to external focus)
 - [ ] Complete Act I (chapters 15-20)
 - [ ] Act II development
 - [ ] Act III development
@@ -25,8 +25,8 @@
 - [ ] Delivery
 
 ## Current Focus
-- Revising Act I chapters 1-14 to incorporate:
-  - More external action
+- Drafting remaining Act I chapters (15-20) with emphasis on:
+  - External action
   - Spoken conflict
   - Tangible tension
   - Dialogue that drives decisions
