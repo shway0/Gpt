@@ -10,6 +10,11 @@
 - [x] Narrative revision (all Act I chapters shifted from internal to external focus)
 - [x] Complete Act I (chapters 15-20)
 - [ ] Act II development
+  - [x] Planning for Act II structure and character arcs
+  - [ ] Draft Act II chapters 21-25 (first quarter)
+  - [ ] Draft Act II chapters 26-30 (second quarter)
+  - [ ] Draft Act II chapters 31-35 (third quarter)
+  - [ ] Draft Act II chapters 36-40 (fourth quarter)
 - [ ] Act III development
 - [ ] Act IV development
 - [ ] Act V development
@@ -25,9 +30,9 @@
 - [ ] Delivery
 
 ## Current Focus
-- Planning for Act II development with emphasis on:
-  - Wei's exploration of his transformed state
-  - The Warden's influence on the Wastes
-  - The Order's response to the disturbances
-  - Ru Yun's journey to find Wei
-  - Further development of balanced cultivation techniques
+- Drafting Act II chapters 21-22 with emphasis on:
+  - Ru Yun's discovery of Wei and her backstory
+  - Wei's recovery and adaptation to his transformed state
+  - Introduction of Scholar Zhen Min and the knowledge preservation subplot
+  - The emergence of the Cult of the Hollow and the "Hollow King" mythology
+  - Maintaining the external action focus established in Act I
