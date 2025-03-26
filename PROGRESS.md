@@ -13,16 +13,16 @@
 - Tue Mar 25 2025: Identified need for narrative shift from internal to external focus
 - Tue Mar 25 2025: Revised Act I chapters 1-12 to shift from internal to external focus
 - Wed Mar 26 2025: Revised Act I chapters 13-14 to shift from internal to external focus
+- Wed Mar 26 2025: Drafted Act I chapters 15-20 to complete Act I
+- Wed Mar 26 2025: Completed Act I (20 chapters) with consistent narrative focus on external action
 
 ## In-Progress Tasks
-- Drafting remaining Act I chapters (15-20)
-- Implementing narrative improvements throughout Act I:
-  - More dialogue that drives decisions
-  - Encounters instead of monologues
-  - Group tension dynamics
-  - Choices with visible consequences
+- Planning for Act II development
+- Refinement of complete Act I
+- Integration of narrative lessons from Act I into future acts
 
 ## Upcoming Tasks
 - Begin Act II development
-- Refinement of complete Act I
-- Integration of narrative lessons from Act I into future acts
+- Implement character development arcs established in Act I
+- Expand on the Warden subplot and ecological transformation themes
+- Develop the Order's response to Wei's transformation

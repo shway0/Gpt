@@ -6,9 +6,9 @@
 - [x] Plot construction
 
 ## Development Phase
-- [x] Initial draft (Act I: 14 of 20 chapters)
-- [x] Narrative revision (chapters 1-14 shifted from internal to external focus)
-- [ ] Complete Act I (chapters 15-20)
+- [x] Initial draft (Act I: 20 of 20 chapters)
+- [x] Narrative revision (all Act I chapters shifted from internal to external focus)
+- [x] Complete Act I (chapters 15-20)
 - [ ] Act II development
 - [ ] Act III development
 - [ ] Act IV development
@@ -25,11 +25,9 @@
 - [ ] Delivery
 
 ## Current Focus
-- Drafting remaining Act I chapters (15-20) with emphasis on:
-  - External action
-  - Spoken conflict
-  - Tangible tension
-  - Dialogue that drives decisions
-  - Encounters instead of monologues
-  - Group tension dynamics
-  - Choices with visible consequences
+- Planning for Act II development with emphasis on:
+  - Wei's exploration of his transformed state
+  - The Warden's influence on the Wastes
+  - The Order's response to the disturbances
+  - Ru Yun's journey to find Wei
+  - Further development of balanced cultivation techniques
