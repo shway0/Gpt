@@ -18,12 +18,13 @@
 - Wed Mar 26 2025: Began Act II development (Hollow Resurrection)
 - Wed Mar 26 2025: Drafted Act II chapters 21-22 introducing Ru Yun and her backstory
 - Wed Mar 26 2025: Drafted Act II chapter 23 establishing Wei and Ru Yun's alliance
+- Wed Mar 26 2025: Drafted Act II chapter 24 introducing Scholar Zhen Min and the knowledge preservation subplot
 
 ## In-Progress Tasks
-- Drafting Act II chapters 24-25 (first quarter)
-- Introducing Scholar Zhen Min and the knowledge preservation subplot
+- Drafting Act II chapter 25 (first quarter)
 - Continuing the Warden subplot established in Act I
 - Developing the Order's response to Wei's transformation
+- Exploring environmental effects of Wei's transformed cultivation state
 
 ## Upcoming Tasks
 - Complete Act II development (20 chapters)
