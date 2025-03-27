@@ -2,7 +2,7 @@
 
 ## Character Dependencies
 - Wei Liang's development depends on his interactions with the Warden and his transformed state
-- Yanmei's character arc depends on her integration into Wei and Ru Yun's group after being rescued from the cult
+- Yanmei's character arc depends on her integration into Wei and Ru Yun's group and her contribution of village perspective
 - Lian Hesh's moral conflict depends on witnessing Wei's actions and her return to the Wastes as an Order representative
 - Feng Zhao's antagonism depends on Wei's growing power threatening the status quo
 - Ru Yun's development depends on her study of Wei's transformation and collaboration with Scholar Zhen Min
@@ -10,14 +10,15 @@
 - The Silent Choir's investigation depends on Wei's unusual energy signature and will intensify in Act II
 - The Warden's evolution depends on managing the transformation zone created by Wei's cultivation
 - Scholar Zhen Min's role depends on his hidden archive of forbidden texts and collaboration with Ru Yun
-- Jian Rou's antagonism depends on her zealous enforcement of Order principles
+- Jian Rou's character development depends on her observation of the transformation zone and questioning of Order doctrine
 
 ## Plot Dependencies
-- The Wei-Ru Yun-Yanmei alliance depends on their shared understanding of the Forgotten Path
+- The Wei-Ru Yun-Yanmei alliance depends on their integration of different perspectives on power and survival
+- The cult intervention mission depends on Ru Yun and Yanmei's collaboration while Wei manages Order reconnaissance
 - The Cult of the Hollow subplot depends on their continued distorted worship despite Wei's intervention
-- The village network subplot depends on Mei Ling's established contact with Wei's transformation zone
+- The village network subplot depends on Mei Ling's intelligence gathering about cult activities
 - Wei's partnership with the Warden depends on maintaining balanced cultivation
-- The Order's response depends on their discovery of Wei's growing influence and the transformation zone
+- The Order's response depends on their reconnaissance unit's observations and Jian Rou's reports
 - The Forgotten Path's development depends on Wei finding others receptive to balanced cultivation
 - Lin Mei's legacy depends on connections between her research and Wei's transformation effects
 - The central conflict depends on the clash between traditional cultivation and alternative paths
@@ -30,8 +31,8 @@
 - "Memory as currency" expands through Wei's interactions with Ru Yun and Scholar Zhen Min
 - "The erosion of identity" develops as Wei's reputation grows beyond his control
 - "Defiance against the entitled strong" manifests through the Wei-Ru Yun-Yanmei alliance
-- "Truth versus institutional control" deepens through Scholar Zhen Min's hidden archives and Lin Mei's research
-- "Balance versus separation" continues as the central theme through Wei's cultivation approach and the village network's philosophy
+- "Truth versus institutional control" deepens through Scholar Zhen Min's hidden archives and Jian Rou's questioning
+- "Balance versus separation" continues as the central theme through Wei's cultivation approach and the alliance's integration
 - "Mythology versus reality" emerges through contrast between the cult's worship and Wei's actual nature
 - "Community versus isolation" develops through the formation of Wei's group and their connection to the village network
 

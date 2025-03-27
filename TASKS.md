@@ -16,7 +16,7 @@
     - [x] Chapter 26: The Village Network
     - [x] Chapter 27: Yanmei's Flight
     - [x] Chapter 28: The Cult of the Hollow
-    - [ ] Chapter 29: Three Paths Converge
+    - [x] Chapter 29: Three Paths Converge
     - [ ] Chapter 30: The Order Responds
   - [ ] Draft Act II chapters 31-35 (third quarter)
   - [ ] Draft Act II chapters 36-40 (fourth quarter)
@@ -35,11 +35,11 @@
 - [ ] Delivery
 
 ## Current Focus
-- Drafting Act II chapter 29 with emphasis on:
-  - The implications of Wei, Ru Yun, and Yanmei's alliance
-  - The integration of their different perspectives and abilities
-  - The development of a shared understanding of the Forgotten Path
-  - The planning for addressing the Cult of the Hollow threat
-- Developing the village network's relationship with Wei's group
-- Preparing for the Order's eventual response to Wei's activities
+- Drafting Act II chapter 30 with emphasis on:
+  - The Order's investigation into unusual void energy in the Wastes
+  - Jian Rou and Lian Hesh's dispatch as investigators
+  - Internal tensions within the Order about appropriate responses
+  - Connecting to the events of Chapter 29 from the Order's perspective
+- Developing the Order's response to Wei's transformation
+- Preparing for the confrontation between Wei's group and the Order
 - Continuing the external action focus established in Act I
