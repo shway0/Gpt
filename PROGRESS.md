@@ -19,12 +19,15 @@
 - Wed Mar 26 2025: Drafted Act II chapters 21-22 introducing Ru Yun and her backstory
 - Wed Mar 26 2025: Drafted Act II chapter 23 establishing Wei and Ru Yun's alliance
 - Wed Mar 26 2025: Drafted Act II chapter 24 introducing Scholar Zhen Min and the knowledge preservation subplot
+- Thu Mar 27 2025: Drafted Act II chapter 25 exploring environmental effects of Wei's transformed cultivation state
+- Thu Mar 27 2025: Drafted Act II chapter 26 introducing Mei Ling and the village network
 
 ## In-Progress Tasks
-- Drafting Act II chapter 25 (first quarter)
+- Drafting Act II chapter 27 (Yanmei's Flight)
 - Continuing the Warden subplot established in Act I
 - Developing the Order's response to Wei's transformation
-- Exploring environmental effects of Wei's transformed cultivation state
+- Developing the village network subplot
+- Preparing for the convergence of Wei, Ru Yun, and Yanmei
 
 ## Upcoming Tasks
 - Complete Act II development (20 chapters)

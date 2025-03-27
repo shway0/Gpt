@@ -11,8 +11,13 @@
 - [x] Complete Act I (chapters 15-20)
 - [ ] Act II development
   - [x] Planning for Act II structure and character arcs
-  - [ ] Draft Act II chapters 21-25 (first quarter)
+  - [x] Draft Act II chapters 21-25 (first quarter)
   - [ ] Draft Act II chapters 26-30 (second quarter)
+    - [x] Chapter 26: The Village Network
+    - [ ] Chapter 27: Yanmei's Flight
+    - [ ] Chapter 28: The Cult of the Hollow
+    - [ ] Chapter 29: Three Paths Converge
+    - [ ] Chapter 30: The Order Responds
   - [ ] Draft Act II chapters 31-35 (third quarter)
   - [ ] Draft Act II chapters 36-40 (fourth quarter)
 - [ ] Act III development
@@ -30,9 +35,10 @@
 - [ ] Delivery
 
 ## Current Focus
-- Drafting Act II chapters 21-22 with emphasis on:
-  - Ru Yun's discovery of Wei and her backstory
-  - Wei's recovery and adaptation to his transformed state
-  - Introduction of Scholar Zhen Min and the knowledge preservation subplot
-  - The emergence of the Cult of the Hollow and the "Hollow King" mythology
-  - Maintaining the external action focus established in Act I
+- Drafting Act II chapter 27 with emphasis on:
+  - Yanmei's flight from cultists who worship the "Hollow King"
+  - The Cult of the Hollow subplot development
+  - Yanmei's journey toward Wei's location
+  - Continuing the external action focus established in Act I
+- Developing the village network subplot introduced in Chapter 26
+- Preparing for the convergence of Wei, Ru Yun, and Yanmei in upcoming chapters

@@ -3,33 +3,34 @@
 ## World State
 - Setting: A fractured, caste-bound cultivation world where the strong dominate and rewrite reality
 - Central location: The Shattered Wastes (once a battlefield of forgotten gods, now a cursed graveyard)
-- Timeline: Beginning Act II (Hollow Resurrection) after completion of Act I
+- Timeline: Mid Act II (Hollow Resurrection) with 6 of 20 chapters completed
 
 ## Character State
 - Main characters: Wei Liang (protagonist), Yanmei, Lian Hesh, Feng Zhao, Ru Yun, Silent Choir, Mei Ling, The Warden, Scholar Zhen Min, Jian Rou
 - Current motivations: 
   - Wei: Explore his transformed state, develop balanced cultivation, find others receptive to the Forgotten Path
-  - Yanmei: Protect Wei while maintaining sect loyalty, soon to flee from cultists
+  - Yanmei: Currently fleeing from cultists who worship the "Hollow King," moving toward Wei's location
   - Lian Hesh: Internal conflict between duty and ethics, will return to the Wastes as an Order representative
   - Feng Zhao: Eliminate threats to maintain status
-  - Ru Yun: Former disciple turned Wastes scavenger, seeking truth about cultivation paths, about to discover Wei
+  - Ru Yun: Former disciple now allied with Wei, studying his transformation and its environmental effects
   - Silent Choir: Investigate anomalous energy signature, will send observers to study Wei
-  - Mei Ling: Leader of village communities in the Wastes borderlands
-  - The Warden: Maintain balance in the Wastes, observe Wei's development, will fully awaken later in Act II
-  - Scholar Zhen Min: Knowledge preserver with hidden archive of forbidden texts
+  - Mei Ling: Leader of village communities in the Wastes borderlands, preparing to make contact with Wei and Ru Yun
+  - The Warden: Consciousness emerged from Wei's transformation zone, maintaining balance in the affected area
+  - Scholar Zhen Min: Knowledge preserver with hidden archive of forbidden texts, providing historical context
   - Jian Rou: Zealous Order enforcer dispatched to investigate void energy in the Wastes
 
 ## Plot State
-- Current phase: Beginning Act II (Hollow Resurrection)
+- Current phase: Mid Act II (Hollow Resurrection)
 - Active conflicts: 
-  - Wei's recovery from his transformation and exploration of his new abilities
-  - Ru Yun's discovery of Wei and formation of tentative alliance
-  - The emergence of the Cult of the Hollow worshipping the "Hollow King"
+  - Wei and Ru Yun's study of his transformation's environmental effects
+  - The Warden's emergence and management of the transformation zone
+  - Mei Ling's discovery of the transformation zone and decision to make contact
+  - Yanmei's flight from cultists who worship the "Hollow King"
   - The Order's investigation into unusual void energy in the Wastes
   - The Silent Choir's interest in Wei's unique cultivation
   - The ecological transformation of the Wastes continuing
-- Resolved elements: Wei's initial transformation, memory preservation techniques, understanding of the Wastes' true nature
-- Unresolved elements: Wei's future development, confrontation with the Order, reunion with Ru Yun, the Warden's full awakening
+- Resolved elements: Wei's initial transformation, Wei and Ru Yun's alliance, Scholar Zhen Min's involvement, the Warden's emergence
+- Unresolved elements: Wei's future development, confrontation with the Order, Yanmei's arrival, convergence of Wei, Ru Yun, and Yanmei
 - Narrative Direction: Continue external action focus in Act II with emphasis on Wei's transformed abilities, the formation of alliances, and the wider implications of the Forgotten Path
 
 ## Narrative Approach
