@@ -12,14 +12,14 @@
 - [ ] Act II development
   - [x] Planning for Act II structure and character arcs
   - [x] Draft Act II chapters 21-25 (first quarter)
-  - [ ] Draft Act II chapters 26-30 (second quarter)
+  - [x] Draft Act II chapters 26-30 (second quarter)
     - [x] Chapter 26: The Village Network
     - [x] Chapter 27: Yanmei's Flight
     - [x] Chapter 28: The Cult of the Hollow
     - [x] Chapter 29: Three Paths Converge
     - [x] Chapter 30: The Order Responds
   - [ ] Draft Act II chapters 31-35 (third quarter)
-    - [ ] Chapter 31: Lian's Return
+    - [x] Chapter 31: Lian's Return
     - [ ] Chapter 32: The Silent Choir
     - [ ] Chapter 33: Warden's Evolution
     - [ ] Chapter 34: Feng Zhao's Suspicion
@@ -40,11 +40,12 @@
 - [ ] Delivery
 
 ## Current Focus
-- Drafting Act II chapter 31 with emphasis on:
-  - Lian Hesh's return to the Wastes as an Order representative
-  - Her struggle with guilt over abandoning Wei and uncertainty about her current mission
-  - Her advanced cultivation and troubled conscience
-  - Her reunion with Wei and the implications for her loyalty to the Order
-- Developing the Order subplot introduced in Chapter 30
+- Drafting Act II chapter 32 with emphasis on:
+  - The Silent Choir's investigation of Wei's unusual energy signature
+  - Their unique cultivation techniques and philosophical approach
+  - Their interest in the transformation zone and its implications
+  - Their potential role as a third faction beyond Wei's group and the Order
+- Developing Lian Hesh's conflict between Order loyalty and empirical evidence
+- Continuing the exploration of the transformation zone's effects
 - Preparing for the confrontation between Wei's group and the Order
 - Continuing the external action focus established in Act I

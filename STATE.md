@@ -3,14 +3,14 @@
 ## World State
 - Setting: A fractured, caste-bound cultivation world where the strong dominate and rewrite reality
 - Central location: The Shattered Wastes (once a battlefield of forgotten gods, now a cursed graveyard)
-- Timeline: Mid Act II (Hollow Resurrection) with 10 of 20 chapters completed
+- Timeline: Mid Act II (Hollow Resurrection) with 11 of 20 chapters completed
 
 ## Character State
 - Main characters: Wei Liang (protagonist), Yanmei, Lian Hesh, Feng Zhao, Ru Yun, Silent Choir, Mei Ling, The Warden, Scholar Zhen Min, Jian Rou
 - Current motivations: 
   - Wei: Explore his transformed state, develop balanced cultivation, find others receptive to the Forgotten Path
   - Yanmei: Part of Wei and Ru Yun's alliance, contributing village perspective while learning the Forgotten Path
-  - Lian Hesh: Conflicted Order representative returning to the Wastes, torn between duty and her connection to Wei
+  - Lian Hesh: Conflicted Order representative who has secretly reunited with Wei, torn between duty and empirical evidence
   - Feng Zhao: Suspicious of the transformation zone's connection to forbidden research he personally suppressed
   - Ru Yun: Former disciple now allied with Wei, studying his transformation and developing practical applications
   - Silent Choir: Investigate anomalous energy signature, will send observers to study Wei
@@ -24,14 +24,15 @@
 - Active conflicts: 
   - Wei, Ru Yun, and Yanmei's alliance and their different perspectives on power and survival
   - The Order's investigation of the transformation zone and internal tensions about appropriate responses
+  - Lian Hesh's conflict between Order loyalty and her connection to Wei
   - The Warden's management of the transformation zone's expansion
   - Mei Ling's village network and their relationship with Wei's group
   - The Cult of the Hollow's continued activities despite Wei's intervention
   - Feng Zhao's suspicion about connections to Lin Mei's forbidden research
   - The Silent Choir's interest in Wei's unique cultivation
   - The ecological transformation of the Wastes continuing
-- Resolved elements: Wei's initial transformation, Wei and Ru Yun's alliance, Scholar Zhen Min's involvement, the Warden's emergence, Yanmei's escape and rescue from the Cult of the Hollow, Wei's confrontation with the cult, the formation of Wei-Ru Yun-Yanmei alliance
-- Unresolved elements: Wei's future development, confrontation with the Order, the cult intervention mission, Lian Hesh's loyalty conflict
+- Resolved elements: Wei's initial transformation, Wei and Ru Yun's alliance, Scholar Zhen Min's involvement, the Warden's emergence, Yanmei's escape and rescue from the Cult of the Hollow, Wei's confrontation with the cult, the formation of Wei-Ru Yun-Yanmei alliance, Lian Hesh's reunion with Wei
+- Unresolved elements: Wei's future development, confrontation with the Order, the cult intervention mission, Lian Hesh's ultimate loyalty decision
 - Narrative Direction: Continue external action focus in Act II with emphasis on Wei's transformed abilities, the formation of alliances, and the wider implications of the Forgotten Path
 
 ## Narrative Approach
@@ -45,3 +46,4 @@
 - Growing mythology around Wei as the "Hollow King"
 - Multiple perspective approach with chapters focusing on different characters
 - Institutional conflict between Order doctrine and empirical evidence
+- Personal loyalty versus empirical truth as an emerging theme
