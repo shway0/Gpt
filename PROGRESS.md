@@ -21,13 +21,15 @@
 - Wed Mar 26 2025: Drafted Act II chapter 24 introducing Scholar Zhen Min and the knowledge preservation subplot
 - Thu Mar 27 2025: Drafted Act II chapter 25 exploring environmental effects of Wei's transformed cultivation state
 - Thu Mar 27 2025: Drafted Act II chapter 26 introducing Mei Ling and the village network
+- Thu Mar 27 2025: Drafted Act II chapter 27 focusing on Yanmei's flight from the Cult of the Hollow
 
 ## In-Progress Tasks
-- Drafting Act II chapter 27 (Yanmei's Flight)
+- Drafting Act II chapter 28 (The Cult of the Hollow)
 - Continuing the Warden subplot established in Act I
 - Developing the Order's response to Wei's transformation
 - Developing the village network subplot
-- Preparing for the convergence of Wei, Ru Yun, and Yanmei
+- Implementing the convergence of Wei, Ru Yun, and Yanmei
+- Expanding the Cult of the Hollow subplot
 
 ## Upcoming Tasks
 - Complete Act II development (20 chapters)
@@ -35,4 +37,3 @@
 - Expand on the Warden subplot and ecological transformation themes
 - Introduce the Silent Choir and their unique cultivation techniques
 - Explore Wei's growing legend as the "Hollow King"
-- Develop the Cult of the Hollow subplot
