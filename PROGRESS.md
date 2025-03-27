@@ -27,16 +27,17 @@
 - Thu Mar 27 2025: Drafted Act II chapter 30 introducing the Order's response and the internal tensions regarding void manifestations
 - Thu Mar 27 2025: Drafted Act II chapter 31 focusing on Lian Hesh's return to the Wastes and her reunion with Wei
 - Thu Mar 27 2025: Drafted Act II chapter 32 introducing the Silent Choir and their interaction with the Warden
+- Thu Mar 27 2025: Drafted Act II chapter 33 exploring the Warden's evolution as an independent consciousness and its relationships with Wei and the Silent Choir
 
 ## In-Progress Tasks
-- Drafting Act II chapter 33 (Warden's Evolution)
+- Drafting Act II chapter 34 (Feng Zhao's Suspicion)
 - Continuing the Warden subplot established in Act I
 - Developing the Order's response to Wei's transformation
 - Developing the village network subplot
 - Expanding the Cult of the Hollow subplot
 - Exploring the implications of Wei, Ru Yun, and Yanmei's alliance
 - Developing Lian Hesh's conflict between Order loyalty and empirical evidence
-- Establishing the Silent Choir as a third faction in the narrative
+- Developing the three-faction dynamic between Wei's group, the Order, and the Silent Choir
 
 ## Upcoming Tasks
 - Complete Act II development (20 chapters)

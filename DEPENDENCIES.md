@@ -8,7 +8,7 @@
 - Ru Yun's development depends on her study of Wei's transformation and collaboration with Scholar Zhen Min
 - Mei Ling's role depends on maintaining contact between the village network and Wei's group
 - The Silent Choir's role depends on their observation of the transformation zone and communication with the Warden
-- The Warden's evolution depends on managing the transformation zone and its interactions with both Wei and the Silent Choir
+- The Warden's continued development depends on balancing its autonomous agency with its relationships to Wei and the Silent Choir
 - Scholar Zhen Min's role depends on his hidden archive of forbidden texts and collaboration with Ru Yun
 - Jian Rou's character development depends on her investigation of the transformation zone and questioning of Order doctrine
 
@@ -17,7 +17,7 @@
 - The cult intervention mission depends on Ru Yun and Yanmei's collaboration while Wei manages Order reconnaissance
 - The Cult of the Hollow subplot depends on their continued distorted worship despite Wei's intervention
 - The village network subplot depends on Mei Ling's intelligence gathering about cult activities
-- Wei's partnership with the Warden depends on maintaining balanced cultivation
+- Wei's partnership with the Warden depends on respecting its autonomy while maintaining balanced cultivation
 - The Order's response depends on the investigation team's observations and internal faction conflicts
 - Lian Hesh's secret connection with Wei depends on her ability to maintain her cover within the Order
 - The Silent Choir subplot depends on their methodological approach to studying the transformation zone
@@ -41,6 +41,8 @@
 - "Personal loyalty versus empirical truth" emerges through Lian Hesh's conflict between Order obligations and observed reality
 - "Observation versus intervention" develops through the Silent Choir's methodological approach
 - "Knowledge as responsibility" emerges through the Silent Choir's approach to information gathering
+- "Autonomy versus partnership" emerges through the Warden's evolution and its relationship with Wei
+- "Independence within connection" develops through the balanced relationship between Wei and the Warden
 
 ## Narrative Approach Dependencies
 - External action remains the primary narrative mode throughout Act II
