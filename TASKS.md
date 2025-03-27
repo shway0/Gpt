@@ -20,7 +20,7 @@
     - [x] Chapter 30: The Order Responds
   - [ ] Draft Act II chapters 31-35 (third quarter)
     - [x] Chapter 31: Lian's Return
-    - [ ] Chapter 32: The Silent Choir
+    - [x] Chapter 32: The Silent Choir
     - [ ] Chapter 33: Warden's Evolution
     - [ ] Chapter 34: Feng Zhao's Suspicion
     - [ ] Chapter 35: The Hollow King
@@ -40,12 +40,12 @@
 - [ ] Delivery
 
 ## Current Focus
-- Drafting Act II chapter 32 with emphasis on:
-  - The Silent Choir's investigation of Wei's unusual energy signature
-  - Their unique cultivation techniques and philosophical approach
-  - Their interest in the transformation zone and its implications
-  - Their potential role as a third faction beyond Wei's group and the Order
-- Developing Lian Hesh's conflict between Order loyalty and empirical evidence
-- Continuing the exploration of the transformation zone's effects
-- Preparing for the confrontation between Wei's group and the Order
+- Drafting Act II chapter 33 with emphasis on:
+  - The Warden's continued evolution and growing consciousness
+  - The environmental effects of the transformation zone's expansion
+  - The Warden's relationship with Wei and understanding of the transformation
+  - The development of the Warden as an independent entity with its own motivations
+- Continuing the Silent Choir subplot established in Chapter 32
+- Developing the three-faction dynamic between Wei's group, the Order, and the Silent Choir
+- Exploring the implications of different philosophical approaches to cultivation
 - Continuing the external action focus established in Act I

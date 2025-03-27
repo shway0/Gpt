@@ -3,7 +3,7 @@
 ## World State
 - Setting: A fractured, caste-bound cultivation world where the strong dominate and rewrite reality
 - Central location: The Shattered Wastes (once a battlefield of forgotten gods, now a cursed graveyard)
-- Timeline: Mid Act II (Hollow Resurrection) with 11 of 20 chapters completed
+- Timeline: Mid Act II (Hollow Resurrection) with 12 of 20 chapters completed
 
 ## Character State
 - Main characters: Wei Liang (protagonist), Yanmei, Lian Hesh, Feng Zhao, Ru Yun, Silent Choir, Mei Ling, The Warden, Scholar Zhen Min, Jian Rou
@@ -13,9 +13,9 @@
   - Lian Hesh: Conflicted Order representative who has secretly reunited with Wei, torn between duty and empirical evidence
   - Feng Zhao: Suspicious of the transformation zone's connection to forbidden research he personally suppressed
   - Ru Yun: Former disciple now allied with Wei, studying his transformation and developing practical applications
-  - Silent Choir: Investigate anomalous energy signature, will send observers to study Wei
+  - Silent Choir: Observing the transformation zone and communicating with the Warden, studying integration principles
   - Mei Ling: Leader of village communities in the Wastes borderlands, providing intelligence on cult activities
-  - The Warden: Consciousness emerged from Wei's transformation zone, maintaining balance in the affected area
+  - The Warden: Consciousness emerged from Wei's transformation zone, maintaining balance and communicating with the Silent Choir
   - Scholar Zhen Min: Knowledge preserver with hidden archive of forbidden texts, providing historical context
   - Jian Rou: Order enforcer investigating the transformation zone, beginning to question fundamental Order doctrine
 
@@ -29,10 +29,11 @@
   - Mei Ling's village network and their relationship with Wei's group
   - The Cult of the Hollow's continued activities despite Wei's intervention
   - Feng Zhao's suspicion about connections to Lin Mei's forbidden research
-  - The Silent Choir's interest in Wei's unique cultivation
+  - The Silent Choir's observation and communication with the Warden
+  - The three-faction dynamic between Wei's group, the Order, and the Silent Choir
   - The ecological transformation of the Wastes continuing
-- Resolved elements: Wei's initial transformation, Wei and Ru Yun's alliance, Scholar Zhen Min's involvement, the Warden's emergence, Yanmei's escape and rescue from the Cult of the Hollow, Wei's confrontation with the cult, the formation of Wei-Ru Yun-Yanmei alliance, Lian Hesh's reunion with Wei
-- Unresolved elements: Wei's future development, confrontation with the Order, the cult intervention mission, Lian Hesh's ultimate loyalty decision
+- Resolved elements: Wei's initial transformation, Wei and Ru Yun's alliance, Scholar Zhen Min's involvement, the Warden's emergence, Yanmei's escape and rescue from the Cult of the Hollow, Wei's confrontation with the cult, the formation of Wei-Ru Yun-Yanmei alliance, Lian Hesh's reunion with Wei, the Silent Choir's initial contact with the Warden
+- Unresolved elements: Wei's future development, confrontation with the Order, the cult intervention mission, Lian Hesh's ultimate loyalty decision, the Silent Choir's future role
 - Narrative Direction: Continue external action focus in Act II with emphasis on Wei's transformed abilities, the formation of alliances, and the wider implications of the Forgotten Path
 
 ## Narrative Approach
@@ -47,3 +48,4 @@
 - Multiple perspective approach with chapters focusing on different characters
 - Institutional conflict between Order doctrine and empirical evidence
 - Personal loyalty versus empirical truth as an emerging theme
+- Observation versus intervention as a philosophical question (through the Silent Choir)
