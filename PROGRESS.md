@@ -22,14 +22,15 @@
 - Thu Mar 27 2025: Drafted Act II chapter 25 exploring environmental effects of Wei's transformed cultivation state
 - Thu Mar 27 2025: Drafted Act II chapter 26 introducing Mei Ling and the village network
 - Thu Mar 27 2025: Drafted Act II chapter 27 focusing on Yanmei's flight from the Cult of the Hollow
+- Thu Mar 27 2025: Drafted Act II chapter 28 showing Wei's intervention against the Cult of the Hollow and the convergence of Wei, Ru Yun, and Yanmei
 
 ## In-Progress Tasks
-- Drafting Act II chapter 28 (The Cult of the Hollow)
+- Drafting Act II chapter 29 (Three Paths Converge)
 - Continuing the Warden subplot established in Act I
 - Developing the Order's response to Wei's transformation
 - Developing the village network subplot
-- Implementing the convergence of Wei, Ru Yun, and Yanmei
 - Expanding the Cult of the Hollow subplot
+- Exploring the implications of Wei, Ru Yun, and Yanmei's alliance
 
 ## Upcoming Tasks
 - Complete Act II development (20 chapters)

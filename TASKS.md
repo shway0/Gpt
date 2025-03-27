@@ -15,7 +15,7 @@
   - [ ] Draft Act II chapters 26-30 (second quarter)
     - [x] Chapter 26: The Village Network
     - [x] Chapter 27: Yanmei's Flight
-    - [ ] Chapter 28: The Cult of the Hollow
+    - [x] Chapter 28: The Cult of the Hollow
     - [ ] Chapter 29: Three Paths Converge
     - [ ] Chapter 30: The Order Responds
   - [ ] Draft Act II chapters 31-35 (third quarter)
@@ -35,11 +35,11 @@
 - [ ] Delivery
 
 ## Current Focus
-- Drafting Act II chapter 28 with emphasis on:
-  - Wei and Ru Yun's discovery of the Cult of the Hollow
-  - Wei's intervention to save Yanmei from sacrifice
-  - Revealing the extent of Wei's transformation through confrontation
-  - Yanmei's perception of Wei as savior rather than monster
-- Implementing the convergence of Wei, Ru Yun, and Yanmei
-- Expanding the Cult of the Hollow subplot
+- Drafting Act II chapter 29 with emphasis on:
+  - The implications of Wei, Ru Yun, and Yanmei's alliance
+  - The integration of their different perspectives and abilities
+  - The development of a shared understanding of the Forgotten Path
+  - The planning for addressing the Cult of the Hollow threat
+- Developing the village network's relationship with Wei's group
+- Preparing for the Order's eventual response to Wei's activities
 - Continuing the external action focus established in Act I

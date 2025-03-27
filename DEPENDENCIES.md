@@ -2,7 +2,7 @@
 
 ## Character Dependencies
 - Wei Liang's development depends on his interactions with the Warden and his transformed state
-- Yanmei's character arc depends on her understanding of Wei's true nature after escaping the Cult of the Hollow
+- Yanmei's character arc depends on her integration into Wei and Ru Yun's group after being rescued from the cult
 - Lian Hesh's moral conflict depends on witnessing Wei's actions and her return to the Wastes as an Order representative
 - Feng Zhao's antagonism depends on Wei's growing power threatening the status quo
 - Ru Yun's development depends on her study of Wei's transformation and collaboration with Scholar Zhen Min
@@ -13,11 +13,11 @@
 - Jian Rou's antagonism depends on her zealous enforcement of Order principles
 
 ## Plot Dependencies
-- The Cult of the Hollow subplot depends on their distorted worship of the "Hollow King" (Wei) and pursuit of Yanmei
-- Wei's confrontation with the cult depends on their attempt to sacrifice Yanmei in Chapter 28
+- The Wei-Ru Yun-Yanmei alliance depends on their shared understanding of the Forgotten Path
+- The Cult of the Hollow subplot depends on their continued distorted worship despite Wei's intervention
 - The village network subplot depends on Mei Ling's established contact with Wei's transformation zone
 - Wei's partnership with the Warden depends on maintaining balanced cultivation
-- The convergence of Wei, Ru Yun, and Yanmei depends on their shared understanding of the Forgotten Path
+- The Order's response depends on their discovery of Wei's growing influence and the transformation zone
 - The Forgotten Path's development depends on Wei finding others receptive to balanced cultivation
 - Lin Mei's legacy depends on connections between her research and Wei's transformation effects
 - The central conflict depends on the clash between traditional cultivation and alternative paths
@@ -29,11 +29,11 @@
 - "Pain as transformation" continues through Wei's recovery and adaptation
 - "Memory as currency" expands through Wei's interactions with Ru Yun and Scholar Zhen Min
 - "The erosion of identity" develops as Wei's reputation grows beyond his control
-- "Defiance against the entitled strong" manifests through both Ru Yun's and Mei Ling's approaches
+- "Defiance against the entitled strong" manifests through the Wei-Ru Yun-Yanmei alliance
 - "Truth versus institutional control" deepens through Scholar Zhen Min's hidden archives and Lin Mei's research
 - "Balance versus separation" continues as the central theme through Wei's cultivation approach and the village network's philosophy
 - "Mythology versus reality" emerges through contrast between the cult's worship and Wei's actual nature
-- "Community versus isolation" develops through contrast between Wei's journey and the village network
+- "Community versus isolation" develops through the formation of Wei's group and their connection to the village network
 
 ## Narrative Approach Dependencies
 - External action remains the primary narrative mode throughout Act II
