@@ -4,7 +4,7 @@
 - Wei Liang's development depends on his interactions with the Warden and his transformed state
 - Yanmei's character arc depends on her integration into Wei and Ru Yun's group and her contribution of village perspective
 - Lian Hesh's moral conflict depends on balancing her Order responsibilities with her empirical observations of Wei's transformation
-- Feng Zhao's antagonism depends on his suspicion about the transformation zone's connection to forbidden research
+- Feng Zhao's character development depends on resolving his conflict between institutional loyalty and empirical evidence that contradicts Order doctrine
 - Ru Yun's development depends on her study of Wei's transformation and collaboration with Scholar Zhen Min
 - Mei Ling's role depends on maintaining contact between the village network and Wei's group
 - The Silent Choir's role depends on their observation of the transformation zone and communication with the Warden
@@ -18,7 +18,8 @@
 - The Cult of the Hollow subplot depends on their continued distorted worship despite Wei's intervention
 - The village network subplot depends on Mei Ling's intelligence gathering about cult activities
 - Wei's partnership with the Warden depends on respecting its autonomy while maintaining balanced cultivation
-- The Order's response depends on the investigation team's observations and internal faction conflicts
+- The Order's internal conflict depends on the tension between doctrine adherence and empirical evidence from the transformation zone
+- Jian Rou's relationship with Feng Zhao depends on their shared questioning of Order doctrine despite different approaches
 - Lian Hesh's secret connection with Wei depends on her ability to maintain her cover within the Order
 - The Silent Choir subplot depends on their methodological approach to studying the transformation zone
 - The three-faction dynamic depends on the contrasting philosophies of Wei's group, the Order, and the Silent Choir
@@ -34,11 +35,12 @@
 - "Memory as currency" expands through Wei's interactions with Ru Yun and Scholar Zhen Min
 - "The erosion of identity" develops as Wei's reputation grows beyond his control
 - "Defiance against the entitled strong" manifests through the Wei-Ru Yun-Yanmei alliance
-- "Truth versus institutional control" deepens through Order's response to the transformation zone and Lian Hesh's conflict
+- "Truth versus institutional control" deepens through Feng Zhao's conflict between empirical evidence and Order doctrine
+- "Personal loyalty versus empirical truth" expands through Feng Zhao's internal struggle with his role in suppressing Lin Mei's research
+- "Institutional integrity versus individual conscience" emerges through the Order's internal conflicts regarding the transformation zone
 - "Balance versus separation" continues as the central theme through Wei's cultivation approach and the Order's doctrine
 - "Mythology versus reality" emerges through contrast between the cult's worship and Wei's actual nature
 - "Community versus isolation" develops through the formation of Wei's group and their connection to the village network
-- "Personal loyalty versus empirical truth" emerges through Lian Hesh's conflict between Order obligations and observed reality
 - "Observation versus intervention" develops through the Silent Choir's methodological approach
 - "Knowledge as responsibility" emerges through the Silent Choir's approach to information gathering
 - "Autonomy versus partnership" emerges through the Warden's evolution and its relationship with Wei

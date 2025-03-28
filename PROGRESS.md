@@ -28,9 +28,10 @@
 - Thu Mar 27 2025: Drafted Act II chapter 31 focusing on Lian Hesh's return to the Wastes and her reunion with Wei
 - Thu Mar 27 2025: Drafted Act II chapter 32 introducing the Silent Choir and their interaction with the Warden
 - Thu Mar 27 2025: Drafted Act II chapter 33 exploring the Warden's evolution as an independent consciousness and its relationships with Wei and the Silent Choir
+- Fri Mar 28 2025: Drafted Act II chapter 34 examining Feng Zhao's investigation into the transformation zone and his suspicions about connections to Lin Mei's forbidden research
 
 ## In-Progress Tasks
-- Drafting Act II chapter 34 (Feng Zhao's Suspicion)
+- Drafting Act II chapter 35 (The Hollow King)
 - Continuing the Warden subplot established in Act I
 - Developing the Order's response to Wei's transformation
 - Developing the village network subplot
